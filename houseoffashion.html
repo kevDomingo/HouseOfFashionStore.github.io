@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="app2.css">
+
+    <title>House Of Fashion</title>
+  </head>
+
+  <body>
+      <nav id="mainNavbar" class="navbar navbar-dark navbar-expand-md py-0 fixed-top">
+          <a href="houseoffashionstore.html" class="navbar-brand">STORE</a>
+          <button class="navbar-toggler" data-toggle="collapse" data-target="#navLinks" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navLinks">
+              <ul class="navbar-nav">
+                  <li class="nav-item">
+                      <a href="houseoffashion.html" class="nav-link">HOME</a>
+                  </li>
+                <li class="nav-item">
+                    <a href="https://www.instagram.com/" target="_blank" class="nav-link"><i class="fab fa-instagram"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="https://www.snapchat.com/" target="_blank" class="nav-link"><i class="fab fa-snapchat-ghost"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="https://twitter.com/" target="_blank" class="nav-link"><i class="fab fa-twitter"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="https://www.facebook.com/" target="_blank" class="nav-link"><i class="fab fa-facebook-square"></i></a>
+                </li>
+              </ul>
+          </div>
+      </nav>
+
+      <section class="container-fluid px-0">
+          <div class="row align-items-center">
+              <div class="col-lg-6">
+                  <div id="headingGroup" class="text-white text-center d-none d-lg-block mt-5">
+                    <h1 class="">HOUSE<span>/</span>OF<span>/</span>FASHION</h2>
+                    <h1 class="">HOUSE<span>/</span>OF<span>/</span>FASHION</h2>
+                    <h1 class="">HOUSE<span>/</span>OF<span>/</span>FASHION</h2>
+                    <h1 class="">HOUSE<span>/</span>OF<span>/</span>FASHION</h2>
+                    <h1 class="">HOUSE<span>/</span>OF<span>/</span>FASHION</h2>
+                    <h1 class="">HOUSE<span>/</span>OF<span>/</span>FASHION</h2>
+                    <h1 class="">HOUSE<span>/</span>OF<span>/</span>FASHION</h2>
+                        
+                </div>
+              </div>
+              <div class="col-lg-6">
+                  <img class="img-fluid" src="https://i.imgur.com/Y43ks8f.jpg" alt="">
+              </div>
+          </div>
+      </section>
+
+      <section class="container-fluid px-0">
+          <div class="row align-items-center content">
+              <div class="col-md-6 order-2 order-md-1">
+                  <img src="https://i.imgur.com/c0ZwF7N.png" alt="" class="img-fluid">
+              </div>
+              <div class="col-md-6 text-center order-1 order-md-2">
+                <div class="row justify-content-center">
+                    <div class="col-10 col-lg-8 blurb mb-5 mb-md-0">
+                        <h2>FASHION FOREVER</h2>
+                  <p class="lead">Everyday in our lives we present ourselves through the clothes that we wear. Our personality is reflected by our way of fashion and style.</p>
+                    </div>
+                </div>
+              </div>
+          </div>
+          <div class="row align-items-center content">
+            <div class="col-md-6 text-center">
+              <div class="row justify-content-center">
+                  <div class="col-10 col-lg-8 blurb mb-5 mb-md-0">
+                      <h2>STYLE AND FIT</h2>
+                <p class="lead">You can always find the perfect fit. And there's no other feeling like it when you do.</p>
+                  </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+                <img src="https://i.imgur.com/Mqaticw.png" alt="" class="img-fluid">
+            </div>
+        </div>
+        <div class="row align-items-center content">
+            <div class="col-md-6 order-2 order-md-1">
+                <img src="https://i.imgur.com/EmaZxzd.png" alt="" class="img-fluid">
+            </div>
+            <div class="col-md-6 text-center order-1 order-md-2">
+              <div class="row justify-content-center">
+                  <div class="col-10 col-lg-8 blurb mb-5 mb-md-0">
+                      <h2>LOOK GOOD FEEL GOOD</h2>
+                <p class="lead">When you look good, you feel good. Show off your style with confidence!</p>
+                  </div>
+              </div>
+            </div>
+        </div>
+      </section>
+    
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+      
+    <script>
+        $(function () {
+            $(document).scroll(function(){
+                var $nav = $("#mainNavbar");
+                $nav.toogleClass("scrolled", $(this).scrollTop() > $nav.height());
+            })
+        })
+    </script>
+</body>
+</html>
